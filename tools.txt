@@ -1,1 +1,5 @@
 Ms visual studio
+
+maven
+
+sonar qube
